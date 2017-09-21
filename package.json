@@ -1,0 +1,24 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Automation_testing",
+  "main": "Podarok.js",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinakulsha/Automation_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinakulsha/Automation_testing/issues"
+  },
+  "homepage": "https://github.com/marinakulsha/Automation_testing#readme"
+}

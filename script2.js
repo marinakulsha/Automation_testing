@@ -12,3 +12,5 @@ MyFunction.prototype = item;
 return new MyFunction();
 }
 console.log(myset.name);
+
+
