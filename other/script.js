@@ -32,7 +32,6 @@ Drops.prototype.getType = function () {
 
 };
 
-
 function Chokolate(name, weight) {
     Podarok.apply(this, arguments);
 };
